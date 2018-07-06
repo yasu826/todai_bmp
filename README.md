@@ -26,8 +26,6 @@ macOSで動かすことを想定しています。
 また、`gcc`、`make`がインストールされていることを想定しています。
 
 ```bash
-# ソースコードのダウンロード
-git clone https://github.com/kawasin73/todai-bmp && cd todai-bmp
 # コンパイル
 make
 # 課題A
